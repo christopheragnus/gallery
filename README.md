@@ -38,7 +38,7 @@ $ git push origin gh-pages  # This pushes your gallery to be hosted!
 *Important notes:* To ⏭speed⏭ up the loading time of your gallery, please make sure to compress your images. If you're running this on a macOS system, this is done automatically for you using `sips`!
 If you want Google Analytics, replace `_includes/ga.html` with your own snippet.
 
-
+Extra note for WSL2.0 / Linux; I use `jpegoptim *.jpg --size=1000k` to compress photos.
 
 ## How It Works
 There are two important pieces to gallery:
