@@ -3,6 +3,22 @@
     {
       "width": 6000,
       "height": 4000,
+      "path": "./photos/Portraits/DSC01534.jpg",
+      "compressed_path": "./photos/Portraits/DSC01534.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Portraits/DSC01534.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Portraits/DSC01452.jpg",
+      "compressed_path": "./photos/Portraits/DSC01452.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Portraits/DSC01452.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
       "path": "./photos/Portraits/DSC01767.jpg",
       "compressed_path": "./photos/Portraits/DSC01767.min.jpg",
       "compressed": false,
